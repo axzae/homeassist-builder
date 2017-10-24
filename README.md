@@ -2,8 +2,13 @@
 Template for building custom control for HomeAssist app
 
 ## Quick Start
-Please help to populate this README.md file.
-
+1. Create a new Class in `fragment.control` package. The class must extends `BaseControlFragment`.
+2. Put your `new_entity.json` in `/assets` directory.
+3. In `MainActivity.showEntityAction()`, get entity instance with `new_entity.json`.
+4. Make necessary changes in the switch statement.
+5. Run!
+6. Make a push request or inform me via email.
+ 
 ## Download
 
 Download HomeAssist on Google Play:
