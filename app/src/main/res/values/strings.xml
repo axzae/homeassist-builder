@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Builder</string>
+    <string name="empty" translatable="false"/>
+    <string name="empty_dashboard">Your dashboard is empty</string>
+
+    <string name="title_changelog">Changelog</string>
+    <string name="title_app_info">App Info</string>
+    <string name="title_about">About HomeAssist</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_edit">Edit Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_whats_new">What\'s New?</string>
+    <string name="title_additem">Add Item</string>
+    <string name="title_send_crash_report">Send Crash Report?</string>
+    <string name="title_save_changes">Save changes?</string>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="action_changelog">Changelog</string>
+    <string name="action_clear_search">Clear Search</string>
+    <string name="action_save">Save</string>
+    <string name="action_discard">Discard</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_done">Done</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_gotit">Got It</string>
+    <string name="action_logout">Sign out</string>
+    <string name="action_ok">OK</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_report">Report</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_set">Set</string>
+    <string name="action_send">Send</string>
+    <string name="action_dont_send_report">Don\'t Send</string>
+    <string name="action_send_report">Send Report</string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_set">Set</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_edit_dashboard">Edit Dashboard</string>
+    <string name="button_trigger">Trigger</string>
+
+    <string name="welcome_text">Welcome to Control Builder</string>
+
+</resources>

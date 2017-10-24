@@ -1,0 +1,12 @@
+{
+	"attributes": {
+		"friendly_name": "Brightness",
+		"max": 254,
+		"min": 0,
+		"step": 1
+	},
+	"entity_id": "input_slider.bedroom_brightness",
+	"last_changed": "2017-10-23T16:52:00.617062+00:00",
+	"last_updated": "2017-10-23T16:52:00.617062+00:00",
+	"state": "163.0"
+}

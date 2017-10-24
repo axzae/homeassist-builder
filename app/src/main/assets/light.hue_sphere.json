@@ -1,0 +1,25 @@
+{
+	"attributes": {
+		"brightness": 254,
+		"color_temp": 369,
+		"effect_list": [
+			"colorloop",
+			"random"
+		],
+		"friendly_name": "Philips Hue",
+		"rgb_color": [
+			255,
+			206,
+			118
+		],
+		"supported_features": 127,
+		"xy_color": [
+			0.4595,
+			0.4105
+		]
+	},
+	"entity_id": "light.hue_sphere",
+	"last_changed": "2017-10-24T14:09:31.071711+00:00",
+	"last_updated": "2017-10-24T14:09:31.071711+00:00",
+	"state": "on"
+}
