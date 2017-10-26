@@ -25,4 +25,6 @@ Please contact support@axzae.com
 
 ### How to close HomeAssist app?
 
-To gracefully close HomeAssist after use, press back buttown twice. If you use the home button, you may need to disconnect websocket via notification.
+To gracefully exit HomeAssist after use, press back button twice. If you use the home button, you may require to disconnect websocket manually via notification.
+
+<img width='380' src='https://raw.githubusercontent.com/axzae/homeassist-builder/master/wiki/websocket_notification.png'/>
