@@ -19,24 +19,31 @@ To gracefully exit HomeAssist after use, press back button twice. If you use the
 
 <img width='380' src='https://raw.githubusercontent.com/axzae/homeassist-builder/master/wiki/websocket_notification.png'/>
 
+## Supported Components
+
+* switch
+* light
+* automation
+* script
+* group
+* media_player
+* input_select
+* input_slider | input_number
+* input_boolean
+* input_text
+* input_datetime
+* sensor
+* binary_sensor
+* device_tracker
+* sun
+* climate
+* camera
 
 ## Known Issues
 
-1. Crash in Oreo when widget is being updated.
-2. Widget not updating for async/polling component.
-3. Camera doesn't work with self-signed ssl cert.
-4. Crash when trying to open Edit Dashboard [can't reproduce]
-5. Sort by Order not working after modified. [can't reproduce]
-
-
-## Advertisement Policy
-
-1. I'm running a test on the admob system from 1st to 14th of Nov.
-	- Banner ads will run from 1st to 7th, and
-	- Interstitial ads will run from 8th to 14th.
-2. Why now? From the stats, I found that at the moment the app has a good mix of users from around the world. I need the stats from admob to understand some calculations.
-3. I know the ads is an eyesore and it frustrates everyone. But please bear with me, I have no intention to run it for long term and promise to turn it off after 14th.
-
+1. Widget crashes and not updating for async/polling component.
+2. Crash in Oreo when widget is being updated.
+3. Protocol Exception
 
 ## Contributions
 
