@@ -21,23 +21,25 @@ To gracefully exit HomeAssist after use, press back button twice. If you use the
 
 ## Supported Components
 
-* switch
-* light
+* alarm_control_panel
 * automation
-* script
+* binary_sensor
+* camera
+* climate
+* device_tracker
 * group
-* media_player
+* input_boolean
+* input_datetime
 * input_select
 * input_slider | input_number
-* input_boolean
 * input_text
-* input_datetime
+* light
+* media_player
+* scene
+* script
 * sensor
-* binary_sensor
-* device_tracker
 * sun
-* climate
-* camera
+* switch
 
 ## Known Issues
 
