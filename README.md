@@ -1,7 +1,7 @@
 Homeassist-builder
 ==================
 
-[![Build Status](https://travis-ci.org/axzae/homeassist-builder.svg?branch=master)](https://travis-ci.org/axzae/homeassist-builder)
+[![Build Status](https://travis-ci.org/axzae/homeassist-builder.svg?branch=travisci)](https://travis-ci.org/axzae/homeassist-builder)
 
 
 Template for building custom control for HomeAssist app
