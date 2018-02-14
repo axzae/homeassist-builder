@@ -1,5 +1,11 @@
-# homeassist-builder
+Homeassist-builder
+==================
+
+[![Build Status](https://travis-ci.org/axzae/homeassist-builder.svg?branch=master)](https://travis-ci.org/axzae/homeassist-builder)
+
+
 Template for building custom control for HomeAssist app
+
 
 ## Quick Start
 1. Create a new Class in `fragment.control` package. The class must extends `BaseControlFragment`.
