@@ -42,10 +42,11 @@ before_script:
 
 script:
   - chmod +x ./gradlew
-  - ./gradlew clean installDebug
-  - ./gradlew check
-  - ./gradlew testDebugUnitTest
-  - ./gradlew connectedDebugAndroidTest
+  - ./gradlew assembleOdtechDebug
+#  - ./gradlew clean installDebug
+#  - ./gradlew check
+#  - ./gradlew testDebugUnitTest
+#  - ./gradlew connectedDebugAndroidTest
 
 #before_deploy:
 #  # Set up git user name and tag this commit
