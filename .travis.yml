@@ -41,6 +41,7 @@ before_script:
   - adb shell input keyevent 82 &
 
 script:
+  - chmod +x ./gradlew
   - ./gradlew clean installDebug
   - ./gradlew check
   - ./gradlew testDebugUnitTest
