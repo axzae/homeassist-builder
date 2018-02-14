@@ -4,7 +4,7 @@ sudo: false
 env:
   global:
     - ANDROID_API_LEVEL=26
-    - ANDROID_EMU_API_LEVEL=23
+    - ANDROID_EMU_API_LEVEL=26
     - ANDROID_BUILD_TOOLS_VERSION=26.0.2
     - ANDROID_ABI=armeabi-v7a
     - ANDROID_TAG=google_apis
@@ -34,7 +34,7 @@ before_script:
   - adb shell input keyevent 82 &
 
 script:
-  - android list target
+  - android list targets
   - ./gradlew connectedAndroidTest
 
 #before_deploy:
