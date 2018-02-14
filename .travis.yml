@@ -6,7 +6,7 @@ notifications:
 env:
   global:
     - ANDROID_API_LEVEL=26
-    - ANDROID_BUILD_TOOLS_VERSION=26.0.1
+    - ANDROID_BUILD_TOOLS_VERSION=26.0.2
     - ANDROID_EMU_API_LEVEL=22
     - ANDROID_ABI=armeabi-v7a
     - ANDROID_TAG=google_apis
@@ -42,7 +42,7 @@ before_script:
 
 script:
   - chmod +x ./gradlew
-  - ./gradlew assembleOdtechDebug
+  - ./gradlew assembleDebug
 #  - ./gradlew clean installDebug
 #  - ./gradlew check
 #  - ./gradlew testDebugUnitTest
