@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HomeAssistBuilder.iml" filepath="$PROJECT_DIR$/HomeAssistBuilder.iml" />
+      <module fileurl="file://D:\github\public\homeassist-builder\HomeAssistBuilder.iml" filepath="D:\github\public\homeassist-builder\HomeAssistBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeassist-builder.iml" filepath="$PROJECT_DIR$/homeassist-builder.iml" />
     </modules>
   </component>
 </project>
